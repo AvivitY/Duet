@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Duet</string>
+    <string name="ip">10.0.0.11</string>
+
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>Female</item>
+        <item>Male</item>
+        <item>Other</item>
+    </string-array>
+</resources>
