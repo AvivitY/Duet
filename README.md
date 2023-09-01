@@ -8,12 +8,13 @@ The first screen is the login screen:
 The user can either connect through spotify or with a regular email account.
 After the user signs in the home page is displayed:
 
-![duet_guy](https://github.com/AvivitY/Duet/assets/62388952/90e7bce2-4412-45da-b151-ed774edefbf7)
+![avi (1)](https://github.com/AvivitY/Duet/assets/62388952/74ca3cc6-3d16-4488-991e-53cb3a8c64f9)
+
 
 The user can either press "like" (heart) or "dislike" (x).
 When the user press "dislike" the match candidate changes and they will not be displayed again.
-When the user press "like" the match candidate also changed and if the match candidate also pressed like beforehand a match pop up will be displayed:
+When the user press "like" the match candidate also changes and if the match candidate also pressed like beforehand, a match pop up will be displayed:
 
-![duet_match_popup](https://github.com/AvivitY/Duet/assets/62388952/fff11b3b-a596-4c6c-bcdd-7e0327898362)
+![match (2)](https://github.com/AvivitY/Duet/assets/62388952/2f5f9b76-4c22-4e2d-bae7-da7781275fb4)
 
 
